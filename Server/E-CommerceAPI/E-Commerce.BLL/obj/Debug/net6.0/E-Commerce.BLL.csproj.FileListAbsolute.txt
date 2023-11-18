@@ -1,0 +1,15 @@
+C:\Users\zyad\source\repos\E-CommerceAPI\E-Commerce.BLL\bin\Debug\net6.0\E-Commerce.BLL.deps.json
+C:\Users\zyad\source\repos\E-CommerceAPI\E-Commerce.BLL\bin\Debug\net6.0\E-Commerce.BLL.dll
+C:\Users\zyad\source\repos\E-CommerceAPI\E-Commerce.BLL\bin\Debug\net6.0\E-Commerce.BLL.pdb
+C:\Users\zyad\source\repos\E-CommerceAPI\E-Commerce.BLL\bin\Debug\net6.0\E-Commerce.DAL.dll
+C:\Users\zyad\source\repos\E-CommerceAPI\E-Commerce.BLL\bin\Debug\net6.0\E-Commerce.DAL.pdb
+C:\Users\zyad\source\repos\E-CommerceAPI\E-Commerce.BLL\obj\Debug\net6.0\E-Commerce.BLL.csproj.AssemblyReference.cache
+C:\Users\zyad\source\repos\E-CommerceAPI\E-Commerce.BLL\obj\Debug\net6.0\E-Commerce.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zyad\source\repos\E-CommerceAPI\E-Commerce.BLL\obj\Debug\net6.0\E-Commerce.BLL.AssemblyInfoInputs.cache
+C:\Users\zyad\source\repos\E-CommerceAPI\E-Commerce.BLL\obj\Debug\net6.0\E-Commerce.BLL.AssemblyInfo.cs
+C:\Users\zyad\source\repos\E-CommerceAPI\E-Commerce.BLL\obj\Debug\net6.0\E-Commerce.BLL.csproj.CoreCompileInputs.cache
+C:\Users\zyad\source\repos\E-CommerceAPI\E-Commerce.BLL\obj\Debug\net6.0\E-Commerce.BLL.csproj.CopyComplete
+C:\Users\zyad\source\repos\E-CommerceAPI\E-Commerce.BLL\obj\Debug\net6.0\E-Commerce.BLL.dll
+C:\Users\zyad\source\repos\E-CommerceAPI\E-Commerce.BLL\obj\Debug\net6.0\refint\E-Commerce.BLL.dll
+C:\Users\zyad\source\repos\E-CommerceAPI\E-Commerce.BLL\obj\Debug\net6.0\E-Commerce.BLL.pdb
+C:\Users\zyad\source\repos\E-CommerceAPI\E-Commerce.BLL\obj\Debug\net6.0\ref\E-Commerce.BLL.dll
