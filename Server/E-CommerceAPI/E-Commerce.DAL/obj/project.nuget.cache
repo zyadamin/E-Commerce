@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "/Fo7GqZD0P7YLMfTjXOvvGkmgvJpT4cU+bCJ83wlFGfrv6sCyRIpcvw3keCN9SJ/VVoE/inJ0S7H/N1uRmIbBA==",
+  "dgSpecHash": "kgpeXqgIGi3kGTfp2REo1cxAVB+Fh+jjtdr/3NIqQ+ecgsO5j0xasn9h+shcxjIQwE1TJJIlct7UfCI8n+afIA==",
   "success": true,
   "projectFilePath": "C:\\Users\\zyad\\source\\repos\\E-Commerce\\Server\\E-CommerceAPI\\E-Commerce.DAL\\E-Commerce.DAL.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\zyad\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\zyad\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\zyad\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\zyad\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\zyad\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "C:\\Users\\zyad\\.nuget\\packages\\microsoft.data.sqlclient.sni.runtime\\2.1.1\\microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "C:\\Users\\zyad\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.25\\microsoft.entityframeworkcore.6.0.25.nupkg.sha512",

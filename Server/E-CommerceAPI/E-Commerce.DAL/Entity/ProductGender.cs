@@ -6,10 +6,14 @@ using System.Threading.Tasks;
 
 namespace E_Commerce.DAL.Entity
 {
-    public class Color
+    public class ProductGender
     {
         public long Id { get; set; }
         public string Name { get; set; }
-        public string value { get; set; }
+        public DateTime CreatedDate { get; set; }
+        public DateTime? ModifiedDate { get; set; }
+
+        public ICollection<Product> Products { get; set; }
+
     }
 }

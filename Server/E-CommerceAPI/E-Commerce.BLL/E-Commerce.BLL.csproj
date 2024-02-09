@@ -8,11 +8,11 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\E-Commerce.DAL\E-Commerce.DAL.csproj" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Manager\" />
+    <ProjectReference Include="..\E-Commerce.DAL\E-Commerce.DAL.csproj" />
   </ItemGroup>
 
 </Project>

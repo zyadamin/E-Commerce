@@ -16,9 +16,8 @@ namespace E_Commerce.DAL.Entity
         public string Gender { get; set; }
         public string? Username { get; set; }
         public DateTime? DateOfBirth { get; set; }
-        public long? PhotoAttachmentId { get; set; }
         public string? Password { get; set; } 
-        public int SystemRoleId { get; set; }
+        public long SystemRoleId { get; set; }
         public bool Active { get; set; }
         public long? CreatedByUserId { get; set; }
         public DateTime CreatedDate { get; set; }

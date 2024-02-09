@@ -7,8 +7,9 @@ using System.Threading.Tasks;
 namespace E_Commerce.DAL.Entity
 {
     public class Address
-    {
+    {   
         public long Id { get; set; }
+        public long UserId { get; set; }
         public int UnitNumber { get; set; }
         public string StreetName { get; set; }
         public int FloorNumber { get; set; }
@@ -17,6 +18,8 @@ namespace E_Commerce.DAL.Entity
         public string Counrty { get; set; }
         public DateTime CreatedDate { get; set; }
         public DateTime? ModifiedDate { get; set; }
+        public bool IsDefault { get; set; }
+
 
     }
 }

@@ -10,11 +10,11 @@ namespace E_Commerce.DAL.Entity
     {
         public long Id { get; set; }
         public long ProductId { get; set; }
-        public long ColorId { get; set; }
+        public long? ColorId { get; set; }
         public string Path { get; set; }
         public DateTime CreatedDate { get; set; }
         public DateTime? ModifiedDate { get; set; }
 
-
+        public  Product Product { get; set; }
     }
 }

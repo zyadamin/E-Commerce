@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace E_Commerce.DAL.Entity
 {
-    public class Size
+    public class PaymentType
     {
         public long Id { get; set; }
         public string Value { get; set; }
-
-
     }
 }

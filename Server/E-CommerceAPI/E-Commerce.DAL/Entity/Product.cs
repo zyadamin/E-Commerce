@@ -16,8 +16,13 @@ namespace E_Commerce.DAL.Entity
         public long Quantity { get; set; }
         public DateTime CreatedDate { get; set; }
         public DateTime? ModifiedDate { get; set;}
-        public long CatagoryId { get; set; }
-        public long GenderId { get; set; }
+        public long CategoryId { get; set; }
+        public long ProductGenderId { get; set; }
+
+        public ProductGender ProductGender { get; set; }
+        public Category Category { get; set; }
+        public ICollection<Image> Images { get; set; }
+        public ICollection<ProductAttributes> ProductAttributes { get; set; }
 
 
 
