@@ -27,3 +27,8 @@
 /Server/E-CommerceAPI/E-Commerce.BLL/bin/Debug/net6.0/E-Commerce.DAL.pdb
 /Server/E-CommerceAPI/E-Commerce.BLL/obj/Debug/net6.0/E-Commerce.BLL.dll
 /Server/E-CommerceAPI/E-Commerce.BLL/obj/Debug/net6.0/E-Commerce.BLL.pdb
+*.vsidx
+/Server/E-CommerceAPI/.vs/E-CommerceAPI/FileContentIndex/2de46c73-9a9a-4bcb-a3be-be13860144d5.vsidx
+/Server/E-CommerceAPI/.vs/E-CommerceAPI/FileContentIndex/58d21a3e-b76a-424f-80a6-94bdc5306cfd.vsidx
+/Server/E-CommerceAPI/.vs/E-CommerceAPI/FileContentIndex/9321cb84-6e0e-47d2-90fe-ea65d8415a7f.vsidx
+/Server/E-CommerceAPI/.vs/E-CommerceAPI/FileContentIndex/f5b390c8-85e7-4a16-aa76-59beb3e88a17.vsidx
