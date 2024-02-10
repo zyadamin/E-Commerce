@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Server/E-CommerceAPI/E-Commerce.BLL/obj/Debug/net6.0/E-Commerce.BLL.csproj.AssemblyReference.cache
+/Server/E-CommerceAPI/.vs/E-CommerceAPI/v17/.suo
+/Server/E-CommerceAPI/E-CommerceAPI/obj/Debug/net6.0/E-Commerce.csproj.AssemblyReference.cache
