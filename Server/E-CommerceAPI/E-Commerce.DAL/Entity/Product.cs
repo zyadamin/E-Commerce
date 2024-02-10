@@ -10,14 +10,14 @@ namespace E_Commerce.DAL.Entity
     {
         public long Id { get; set; }
         public string Name { get; set; }
-        public string Description { get; set; }
+        public string? Description { get; set; }
         public double Price { get; set; }
         public bool InStock { get; set; }
         public long Quantity { get; set; }
         public DateTime CreatedDate { get; set; }
         public DateTime? ModifiedDate { get; set;}
-        public long CategoryId { get; set; }
-        public long ProductGenderId { get; set; }
+        public long? CategoryId { get; set; }
+        public long? ProductGenderId { get; set; }
 
         public ProductGender ProductGender { get; set; }
         public Category Category { get; set; }

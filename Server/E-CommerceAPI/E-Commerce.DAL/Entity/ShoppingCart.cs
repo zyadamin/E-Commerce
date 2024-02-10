@@ -12,6 +12,8 @@ namespace E_Commerce.DAL.Entity
         public long UserId { get; set; }
         public DateTime CreatedDate { get; set; }
         public DateTime? ModifiedDate { get; set; }
+         
+        ICollection<ShoppingCartItem> ShoppingCartItems { get; set; }
 
 
     }

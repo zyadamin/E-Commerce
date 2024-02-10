@@ -14,5 +14,7 @@ namespace E_Commerce.DAL.Entity
         public long Quantity { get; set; }
         public DateTime CreatedDate { get; set; }
         public DateTime? ModifiedDate { get; set; }
+
+        ShoppingCart ShoppingCart { get; set; }
     }
 }
