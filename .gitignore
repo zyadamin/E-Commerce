@@ -64,10 +64,5 @@ bin/
 appsettings.json
 Intalio.CTS/node_modules/
 ApiDocumentation/
-
-#ignore sonarqube folder
-.sonarqube/
-/Intalio.CTS/wwwroot/js/templates.min.js
-/Intalio.CTS/wwwroot/js/main.min.js
-/Intalio.CTS/wwwroot/js/bundle.min.js
-/Intalio.CTS/wwwroot/js/app.min.js
+/Server/E-CommerceAPI/E-CommerceAPI/appsettings.json
+/Server/E-CommerceAPI/E-CommerceAPI/appsettings.Development.json
