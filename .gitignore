@@ -66,5 +66,5 @@ Intalio.CTS/node_modules/
 ApiDocumentation/
 /Server/E-CommerceAPI/E-CommerceAPI/appsettings.json
 /Server/E-CommerceAPI/E-CommerceAPI/appsettings.Development.json
-/Server/E-CommerceAPI/E-CommerceAPI/debug
+/Server/E-CommerceAPI/E-CommerceAPI/bin
 
