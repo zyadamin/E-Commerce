@@ -18,7 +18,6 @@ namespace E_Commerce.DAL.Entity
         public DateTime CreatedDate { get; set; }
         public DateTime? ModifiedDate { get; set; }
 
-
        public Product Product { get; set; }
        public ProductSize Size { get; set; }
        public Material Material { get; set; }

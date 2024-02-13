@@ -44,6 +44,11 @@ namespace E_Commerce.DAL.Manager
             return _eCommerceContext.Product
                 .Include(x=>x.Images)
                 .Include(x=>x.ProductAttributes)
+                .ThenInclude(x=>x.Material)
+                .Include(x => x.ProductAttributes)
+                .ThenInclude(x => x.Size)
+                .Include(x => x.ProductAttributes)
+                .ThenInclude(x => x.Color)
                 .Include(x=>x.Category)
                 .Include(x=>x.ProductGender)
                 .ToList();
